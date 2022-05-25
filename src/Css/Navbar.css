@@ -1,0 +1,38 @@
+.navbar-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.Content{
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    
+    
+    
+}
+
+
+.Content > h5{
+    font-size: 19px;
+    padding: 2px 12px;
+    cursor: pointer;
+    text-align: center;
+    /* align-items: center; */
+    /* align-content: center; */
+    
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px)  {
+
+    .Content > h5{
+        font-size: 13px;
+    }
+    
+    .navbar-1{
+        display: flex;
+       align-items: center;
+    }
+}
