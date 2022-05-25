@@ -15,11 +15,11 @@ function Navbar() {
 
             <div className='Content'>
 
-                <Link>  <h5> <fcicon.FcHome/>Home </h5>              </Link>
-                <Link>  <h5><fcicon.FcAddressBook />Product</h5>     </Link> 
-                <Link>  <h5><fcicon.FcLike/>Medical_Fact</h5>        </Link> 
-                <Link>  <h5><fcicon.FcTodoList/>Orders</h5>          </Link> 
-                <Link>  <h5> <fcicon.FcPortraitMode />About us</h5> </Link> 
+                <Link to='/'>  <h5 className='Heading__menu'> <fcicon.FcHome/>Home </h5>              </Link>
+                <Link to='/product'>  <h5 className='Heading__menu'><fcicon.FcAddressBook />Product</h5>     </Link> 
+                <Link to='/medical'>  <h5 className='Heading__menu'><fcicon.FcLike/>Medical_Fact</h5>        </Link> 
+                <Link to='/order'>  <h5 className='Heading__menu'><fcicon.FcTodoList/>Orders</h5>          </Link> 
+                <Link to='/about'>  <h5 className='Heading__menu'> <fcicon.FcPortraitMode />About us</h5> </Link> 
 
             </div>
     </div>

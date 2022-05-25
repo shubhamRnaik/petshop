@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 
@@ -9,8 +10,20 @@
     display: flex;
     align-items: center;
     font-size: 22px;
-    
-    
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+
+.Content :hover{
+    font-size: 24px;
+   
+}
+
+.Heading__menu{
+    font-size: 17px;
+    font-weight: 600;
     
 }
 
@@ -20,10 +33,18 @@
     padding: 2px 12px;
     cursor: pointer;
     text-align: center;
+    
     /* align-items: center; */
     /* align-content: center; */
+    text-decoration: none;
     
 }
+
+
+
+
+
+
 
 @media only screen and (max-width: 600px) and (min-width: 400px)  {
 
