@@ -23,12 +23,15 @@
 
 .Heading__menu{
     font-size: 17px;
-    font-weight: 600;
+    font-weight: 200;
+    text-decoration: none;
+    
+    
     
 }
 
 
-.Content > h5{
+.Content h5{
     font-size: 19px;
     padding: 2px 12px;
     cursor: pointer;
@@ -37,7 +40,7 @@
     /* align-items: center; */
     /* align-content: center; */
     text-decoration: none;
-    
+    color: #000000;
 }
 
 
@@ -48,12 +51,8 @@
 
 @media only screen and (max-width: 600px) and (min-width: 400px)  {
 
-    .Content > h5{
-        font-size: 13px;
-    }
-    
-    .navbar-1{
-        display: flex;
+   .Heading__menu{
+       font-size: 6px;
        align-items: center;
-    }
+   }
 }

@@ -1,0 +1,46 @@
+{
+   "catfood":[
+
+      {
+         "id":1,
+         "brand":"Whiskas",
+         "cost":200,
+         "flavor":"Tuna",
+         "weight":"7Kg",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGGo3nROMJx8lLACU4Ircz6RchxDSpyV36w&usqp=CAU",
+         "age":"Adult",
+         "medicalCondition":"healthy"
+      },
+      {
+         "id":2,
+         "brand":"Whiskas",
+         "cost":200,
+         "flavor":"Tuna",
+         "weight":"7Kg",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGGo3nROMJx8lLACU4Ircz6RchxDSpyV36w&usqp=CAU",
+         "age":"Adult",
+         "medicalCondition":"healthy"
+      },
+      {
+         "id":3,
+         "brand":"Whiskas",
+         "cost":200,
+         "flavor":"Tuna",
+         "weight":"7Kg",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTk2FnGVylhUQY2DQIk1qs5Et849uzC-7Iw&usqp=CAU",
+         "age":"Adult",
+         "medicalCondition":"healthy"
+      },
+      {
+         "id":4,
+         "brand":"Whiskas",
+         "cost":200,
+         "flavor":"Tuna",
+         "weight":"7Kg",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGGo3nROMJx8lLACU4Ircz6RchxDSpyV36w&usqp=CAU",
+         "age":"Adult",
+         "medicalCondition":"healthy"
+      }
+
+   ]
+}

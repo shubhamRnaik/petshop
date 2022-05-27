@@ -1,0 +1,38 @@
+.Form{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    row-gap: 10px;
+}
+
+
+.textBar{
+    padding: 2px 12px;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 400px;
+    color:#000000
+}
+
+/* .textBar::placeholder{
+    align-content: center;
+    color: red;
+} */
+
+
+
+.btn-2{
+    padding: 7px 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 1000px;
+    outline: none;
+   border: 1px #000000 solid;
+   border-radius: 12px;
+   font-weight: 600;
+    
+}
+
+
+.btn-2:hover{
+ background-color: white;
+}
